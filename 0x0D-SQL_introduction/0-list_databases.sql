@@ -1,2 +1,2 @@
---showing data base
+/*showing data base*/
 SHOW DATABASES;
