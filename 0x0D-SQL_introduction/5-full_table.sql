@@ -1,2 +1,2 @@
 -- describe in TABLE
-DESC first_table;
+SELECT first_table FROM hbtn_0c_0
