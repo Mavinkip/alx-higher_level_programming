@@ -1,2 +1,2 @@
 -- describe in TABLE
-SELECT* from first_table
+SELECT* from first_table;
