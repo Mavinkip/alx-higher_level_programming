@@ -1,2 +1,2 @@
 -- describe in TABLE
- *first_table 
+ printf("Table: {first_table}");
