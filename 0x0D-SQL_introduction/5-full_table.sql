@@ -1,2 +1,2 @@
 -- describe in TABLE
-show create first_table; 
+show create table first_table; 
