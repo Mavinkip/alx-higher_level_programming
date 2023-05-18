@@ -1,2 +1,2 @@
 -- no with NUMBER
-SELECT COUNT(score) FROM first_table WHERE number = score;
+SELECT score, count(score) as number FROM second_table GROUP BY score ORDER BY score DESC;
