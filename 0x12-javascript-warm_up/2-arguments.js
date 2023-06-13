@@ -6,3 +6,6 @@ if (m == 2) {
 else{
     console.log('Arguments found');  
 }
+if (m == 3) {
+    console.log('Argument found');
+}
