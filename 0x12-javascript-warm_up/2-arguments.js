@@ -7,3 +7,4 @@ if (m == 2) {
 }else {
     console.log('Arguments found');
 }
+console.log
