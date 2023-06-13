@@ -1,3 +1,7 @@
 #!/usr/bin/node
-const txt = 'C is fun\nPython is cool\nJavaScript is amazing';
-console.log(txt);
+const m= 'C is fun';
+const n ='Python is cool';
+const o='JavaScript is amazing';
+console.log(m);
+console.log(n);
+console.log(o);
