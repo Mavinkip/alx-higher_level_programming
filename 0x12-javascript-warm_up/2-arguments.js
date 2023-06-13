@@ -3,6 +3,9 @@ const m = arguments;
 if (arguments == null) {
     console.log('No argument');
 }
-else {
-    return arguments
+if (arguments == 1) {
+    console.log('Argument found');
+}
+else{
+    console.log('Arguments found');  
 }
