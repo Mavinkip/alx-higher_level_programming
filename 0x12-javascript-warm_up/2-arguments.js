@@ -1,9 +1,11 @@
 #!/usr/bin/node
-let m = process.argv.length -2;
-if (!m) {
+let m = process.argv.length;
+if (m ===2) {
     console.log('No argument');
-}else if (m == 1) {
+}
+else if (m === 3) {
     console.log('Argument found');
-}else {
+}
+else {
     console.log('Arguments found');
 }
